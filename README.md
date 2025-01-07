@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Olá!+Sou+Antônio+Francisco!+%3D)" alt="Typing SVG" /></a> </h1>
+
+<div align="center">
+  <p>🌟 Desenvolvedor Front-End Júnior | Explorando o Back-End com JavaScript e TypeScript 🌟</p>
+</div>
+
+## 🚀 Sobre Mim  
+💻 Sou um **desenvolvedor Front-End júnior**, apaixonado por criar interfaces modernas e funcionais.  
+📚 Estou ampliando meus conhecimentos na área de **Back-End**, aprendendo **JavaScript** e **TypeScript** para me tornar um desenvolvedor Full-Stack.  
+🎯 Sempre focado em aprender, crescer e contribuir com soluções tecnológicas inovadoras.
+
 <br>
 <div>
   <a href="https://github.com/antoniofrancisco2">
